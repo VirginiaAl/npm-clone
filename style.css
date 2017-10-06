@@ -1,0 +1,226 @@
+* {
+  font-family: sans-serif, verdana;
+}
+
+h1 {
+  font-size: 50px;
+}
+
+h2 {
+  font-size: 40px;
+}
+
+.headingtext h2 {
+  font-size: 30px;
+  color: rgb(83, 88, 98);
+}
+
+.headingtext p {
+  color: rgb(135, 145, 156);
+}
+
+h3 {
+  font-size: 40px;
+}
+
+h4 {
+  font-size: 20px;
+  color: rgb(83, 88, 98);
+}
+
+.boxes p {
+  color: rgb(135, 145, 156);
+}
+
+nav {
+  background-color: #C12127;
+  color: rgba(255, 255, 255, 0.8);
+  padding-top: 15px;
+  height: 50px;
+}
+
+nav a {
+  color: rgba(255, 255, 255, 0.8);
+  text-decoration: none;
+}
+
+.top-links {
+  display: inline-block;
+  float: right;
+  padding: 0;
+  margin: 0 20px 0 0;
+}
+
+.top-links li {
+  display: inline-block;
+  margin: 0 10px;
+}
+
+.top-left {
+  float: left;
+  display: inline-block;
+}
+
+header {
+  color: white;
+  Background: rgb(32, 101, 136);
+  height: 600px;
+}
+
+.logo {
+  padding-top: 10px;
+}
+
+.logo a {
+  color: white;
+  text-decoration: none;
+  float: left;
+}
+
+.logo img {
+  height: 60px;
+  width: 150px;
+  float: left;
+}
+
+.searchTerm {
+  height: 40px;
+  width: 1050px;
+  background: rgb(31, 82, 111);
+  border: 1px solid rgb(95, 196, 245);
+  position: relative;
+  top: 10px;
+  float: left;
+}
+
+#searchButton {
+  height: 50px;
+  width: 30px;
+  background: rgb(31, 82, 111);
+  border: 1px solid rgb(95, 196, 245);
+  float: left;
+}
+
+#bear {
+  height: 30px;
+  width: 60px;
+  float: left;
+}
+
+.container {
+  margin: 0 auto;
+  width: 50%;
+  padding-top: 50px;
+}
+
+.container button {
+  background: rgb(240, 146, 51);
+  color: white;
+  border-radius: 2em;
+  border: none;
+  padding: 5px 10px;
+}
+
+.buildings {
+  float: right;
+  width: 400px;
+  height: 300px;
+}
+
+#first {
+  background: rgb(39, 53, 71);
+  padding-top: 50px;
+}
+
+#first div {
+  margin: 0 auto;
+  width: 60%;
+  height: 600px;
+  color: white;
+}
+
+#first img {
+  height: 300px;
+  width: 300px;
+  float: left;
+}
+
+ul {
+  line-height: 50px;
+}
+
+#first button {
+  color: white;
+  border-radius: 2em;
+  border: none;
+  background: rgb(203, 56, 55);
+  padding: 5px 10px;
+}
+
+#first a {
+  color: white;
+  text-decoration: none;
+}
+
+.col {
+  float: right;
+}
+
+#second {
+  background-image: url(/Users/virginiaalvarez/code/lab-html-module-exercise-master/starter-code/images/forklift.svg);
+  background-size: cover;
+  color: white;
+  height: 600px;
+  margin: 0;
+  position: relative;
+}
+
+#second button {
+  color: white;
+  border-radius: 2em;
+  border: none;
+  background: rgb(49, 68, 88);
+  padding: 10px 20px;
+}
+
+.whatnpm {
+  position: absolute;
+  padding: 80px 150px 0px 200px;
+}
+
+#third {
+  margin: 0 auto;
+  width: 90%;
+  background: white;
+}
+
+.headingtext {
+  text-align: center;
+}
+
+.boxes {
+  margin: 500px;
+}
+
+.service-boxi {
+  float: left;
+  width: 33%;
+  text-align: center;
+}
+
+.service-boxi a {
+  color: rgb(208, 74, 73);
+  text-decoration: none;
+}
+
+.service-boxii {
+  float: left;
+  width: 33%;
+  text-align: center;
+}
+
+.service-boxiii {
+  float: left;
+  width: 33%;
+  text-align: center;
+}
